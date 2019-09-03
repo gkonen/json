@@ -1,0 +1,17 @@
+[
+  { 
+    title = "",
+    authors = [
+      { 
+        firstName = "",
+        lastName = ""
+      }
+    ],
+    genres = [
+      {
+        name = ""
+      }
+    ],
+    year = "19XX - 20XX"
+  }
+]
