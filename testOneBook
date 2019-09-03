@@ -3,8 +3,8 @@
     "title" : "Absalon",
     "authors" : [
       { 
-        "firstname" : "Pierre",
-        "lastname" : "Bordage"
+        "firstName" : "Pierre",
+        "lastName" : "Bordage"
       }
     ],
     "genres" : [
