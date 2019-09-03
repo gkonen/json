@@ -1,137 +1,137 @@
 [
   { 
-    title = "Absalon",
-    authors = [
+    title : "Absalon",
+    authors : [
       { 
-        firstName = "Pierre",
-        lastName = "Bordage"
+        firstName : "Pierre",
+        lastName : "Bordage"
       }
     ],
-    genres = [
+    genres : [
       {
-        name = "Science-Fiction"
+        name : "Science-Fiction"
       }
     ],
-    year = "19XX - 20XX"
+    year : "19XX - 20XX"
   }, 
   { 
-    title = "Creatures Fantastiques T1",
-    authors = [
+    title : "Creatures Fantastiques T1",
+    authors : [
       { 
-        firstName = "Kaziya",
-        lastName = ""
+        firstName : "Kaziya",
+        lastName : ""
       }
     ],
-    genres = [
+    genres : [
       {
-        name = "Manga"
+        name : "Manga"
       }
     ],
-    year = "19XX - 20XX"
+    year : "19XX - 20XX"
   }, 
   { 
-    title = "Algorithmes et theorie des nombres",
-    authors = [
+    title : "Algorithmes et theorie des nombres",
+    authors : [
       { 
-        firstName = "Pierre",
-        lastName = "Audibert"
+        firstName : "Pierre",
+        lastName : "Audibert"
       }
     ],
-    genres = [
+    genres : [
       {
-        name = "Mathematique"
+        name : "Mathematique"
       }
     ],
-    year = "19XX - 20XX"
+    year : "19XX - 20XX"
   }, 
   { 
-    title = "La face obscure du soleil",
-    authors = [
+    title : "La face obscure du soleil",
+    authors : [
       { 
-        firstName = "Terry",
-        lastName = "Pratchett"
+        firstName : "Terry",
+        lastName : "Pratchett"
       }
     ],
-    genres = [
+    genres : [
       {
-        name = "Science-Fiction"
+        name : "Science-Fiction"
       }
     ],
-    year = "19XX - 20XX"
+    year : "19XX - 20XX"
   }, 
   { 
-    title = "Recettes aux bonbons",
-    authors = [
+    title : "Recettes aux bonbons",
+    authors : [
       { 
-        firstName = "Sweet Marabout",
-        lastName = ""
+        firstName : "Sweet Marabout",
+        lastName : ""
       }
     ],
-    genres = [
+    genres : [
       {
-        name = "Cuisine"
+        name : "Cuisine"
       }
     ],
-    year = "19XX - 20XX"
+    year : "19XX - 20XX"
   }, 
   { 
-    title = "La fée, la pie et le printemps",
-    authors = [
+    title : "La fée, la pie et le printemps",
+    authors : [
       { 
-        firstName = "Elisabeth",
-        lastName = "Ebory"
+        firstName : "Elisabeth",
+        lastName : "Ebory"
       }
     ],
-    genres = [
+    genres : [
       {
-        name = "Fantasy"
+        name : "Fantasy"
       }
     ],
-    year = "19XX - 20XX"
+    year : "19XX - 20XX"
   }, 
   { 
-    title = "Comment vivre 7 vies sans avoir mal au pieds",
-    authors = [
+    title : "Comment vivre 7 vies sans avoir mal au pieds",
+    authors : [
       { 
-        firstName = "Evelyne",
-        lastName = "Brisou-Pellen"
+        firstName : "Evelyne",
+        lastName : "Brisou-Pellen"
       }
     ],
-    genres = [
+    genres : [
       {
-        name = "Jeunesse"
+        name : "Jeunesse"
       }
     ],
-    year = "19XX - 20XX"
+    year : "19XX - 20XX"
   }, 
   { 
-    title = "L'echiquier du mal",
-    authors = [
+    title : "L'echiquier du mal",
+    authors : [
       { 
-        firstName = "Dan",
-        lastName = "Simmons"
+        firstName : "Dan",
+        lastName : "Simmons"
       }
     ],
-    genres = [
+    genres : [
       {
-        name = "Thriller"
+        name : "Thriller"
       }
     ],
-    year = "19XX - 20XX"
+    year : "19XX - 20XX"
   }, 
   { 
-    title = "Les chroniques crepusculaires",
-    authors = [
+    title : "Les chroniques crepusculaires",
+    authors : [
       { 
-        firstName = "Mathieu",
-        lastName = "Gaborit"
+        firstName : "Mathieu",
+        lastName : "Gaborit"
       }
     ],
-    genres = [
+    genres : [
       {
-        name = "Fantasy"
+        name : "Fantasy"
       }
     ],
-    year = "19XX - 20XX"
+    year : "19XX - 20XX"
   }
 ]
