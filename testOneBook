@@ -1,0 +1,17 @@
+[
+  { 
+    "title" : "Absalon",
+    "authors" : [
+      { 
+        "firstName" : "Pierre",
+        "lastName" : "Bordage"
+      }
+    ],
+    "genres" : [
+      {
+        "name" : "Science-Fiction"
+      }
+    ],
+    "year" : "19XX - 20XX"
+  }
+]
