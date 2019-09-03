@@ -1,15 +1,135 @@
 [
   { 
-    title = "",
+    title = "Absalon",
     authors = [
       { 
-        firstName = "",
+        firstName = "Pierre",
+        lastName = "Bordage"
+      }
+    ],
+    genres = [
+      {
+        name = "Science-Fiction"
+      }
+    ],
+    year = "19XX - 20XX"
+  }, 
+  { 
+    title = "Creatures Fantastiques T1",
+    authors = [
+      { 
+        firstName = "Kaziya",
         lastName = ""
       }
     ],
     genres = [
       {
-        name = ""
+        name = "Manga"
+      }
+    ],
+    year = "19XX - 20XX"
+  }, 
+  { 
+    title = "Algorithmes et theorie des nombres",
+    authors = [
+      { 
+        firstName = "Pierre",
+        lastName = "Audibert"
+      }
+    ],
+    genres = [
+      {
+        name = "Mathematique"
+      }
+    ],
+    year = "19XX - 20XX"
+  }, 
+  { 
+    title = "La face obscure du soleil",
+    authors = [
+      { 
+        firstName = "Terry",
+        lastName = "Pratchett"
+      }
+    ],
+    genres = [
+      {
+        name = "Science-Fiction"
+      }
+    ],
+    year = "19XX - 20XX"
+  }, 
+  { 
+    title = "Recettes aux bonbons",
+    authors = [
+      { 
+        firstName = "Sweet Marabout",
+        lastName = ""
+      }
+    ],
+    genres = [
+      {
+        name = "Cuisine"
+      }
+    ],
+    year = "19XX - 20XX"
+  }, 
+  { 
+    title = "La fée, la pie et le printemps",
+    authors = [
+      { 
+        firstName = "Elisabeth",
+        lastName = "Ebory"
+      }
+    ],
+    genres = [
+      {
+        name = "Fantasy"
+      }
+    ],
+    year = "19XX - 20XX"
+  }, 
+  { 
+    title = "Comment vivre 7 vies sans avoir mal au pieds",
+    authors = [
+      { 
+        firstName = "Evelyne",
+        lastName = "Brisou-Pellen"
+      }
+    ],
+    genres = [
+      {
+        name = "Jeunesse"
+      }
+    ],
+    year = "19XX - 20XX"
+  }, 
+  { 
+    title = "L'echiquier du mal",
+    authors = [
+      { 
+        firstName = "Dan",
+        lastName = "Simmons"
+      }
+    ],
+    genres = [
+      {
+        name = "Thriller"
+      }
+    ],
+    year = "19XX - 20XX"
+  }, 
+  { 
+    title = "Les chroniques crepusculaires",
+    authors = [
+      { 
+        firstName = "Mathieu",
+        lastName = "Gaborit"
+      }
+    ],
+    genres = [
+      {
+        name = "Fantasy"
       }
     ],
     year = "19XX - 20XX"
